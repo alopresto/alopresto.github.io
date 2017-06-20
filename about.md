@@ -18,6 +18,6 @@ Selected presentations:
 ### Contact me
 
 [@yolopey](https://twitter.com/yolopey)
-[alopresto@apache.org](mailto:alopresto@apache.org)
-[StackOverflow](https://stackoverflow.com/users/70465/andy)
-[LinkedIn](https://www.linkedin.com/in/andylopresto/)
+| [alopresto@apache.org](mailto:alopresto@apache.org)
+| [StackOverflow](https://stackoverflow.com/users/70465/andy)
+| [LinkedIn](https://www.linkedin.com/in/andylopresto/)
